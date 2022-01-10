@@ -1,0 +1,39 @@
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.product__content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.content_exam {
+  padding: 0 10px;
+  width: 375px;
+  height: 812px;
+  background-color: rgb(218, 216, 216);
+}
+
+.product__card {
+  background-color: white;
+  width: 150px;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.icon__content {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.heart__icon {
+  width: 30px;
+  height: 30px;
+}
+.image__product {
+  width: 100%;
+}
